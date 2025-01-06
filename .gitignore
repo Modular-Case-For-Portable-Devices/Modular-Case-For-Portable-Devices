@@ -1,2 +1,5 @@
 # Ignore FreeCAD Backups
 *.FCBak
+
+# Direnv
+.direnv
